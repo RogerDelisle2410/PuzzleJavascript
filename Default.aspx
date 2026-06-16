@@ -956,7 +956,7 @@
                             <option value="Coke">Coke</option>
                             <option value="CokePepsi">CokePepsi</option>
                             <option value="Kokanee">Kokanee</option>
-                            <option value="Canadian">Canadian</option>
+                           <%-- <option value="Canadian">Canadian</option>--%>
                             <option value="RedBull">RedBull</option>
                             <option value="Campbell">Campbell</option>
                             <option value="Grasshopper">Grasshopper</option>
